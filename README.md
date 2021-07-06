@@ -1,0 +1,2 @@
+# check_domain_ssl_to_Dingtalk
+shell脚本实现监控SSL证书有效期，并联动钉钉推送
